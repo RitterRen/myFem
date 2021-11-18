@@ -1,0 +1,17 @@
+{
+  "name": "Nodeserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "expressServer.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Yaokun Ren",
+  "license": "ISC"
+}
